@@ -38,18 +38,21 @@ The goal is simple:
 
 ## 🛠️ Languages Used
 
-* C++
-* Java
-* Python (optional in future)
+* Python
+* C++ (future)
+* Java (future)
 
 ---
 
 ## 📅 Daily Progress
 
-| Day | Problem             | Difficulty | Link               |
-| --- | ------------------- | ---------- | ------------------ |
-| 1   | Two Sum             | Easy       | [View Solution](#) |
-| 2   | Reverse Linked List | Easy       | [View Solution](#) |
+| Day | Problem                  | Difficulty | Link                                      |
+| --- | ------------------------ | ---------- | ----------------------------------------- |
+| 1   | Two Sum                  | Easy       | [View Solution](LeetCode/TwoSum.py)       |
+| 2   | Addition of Submatrix    | Easy       | [View Solution](Addition%20of%20submatrix/Addition%20of%20submatrix.py) |
+| 3   | Shortest Sub-segment     | Medium     | [View Solution](Amazon/Shortest%20Sub-segment/Shortest%20Sub-segment.py) |
+| 4   | Partition Sum Energy     | Medium     | [View Solution](Infosysis/total_energy.py) |
+| 5   | Two Sum - Pairs with 0 Sum | Easy     | [View Solution](Two%20sum%20-Pairs%20with%200%20Sum/Two%20sum%20-Pairs%20with%200%20Sum.py) |
 
 *(Will be updated daily)*
 
