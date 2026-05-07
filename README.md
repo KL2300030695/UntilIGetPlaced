@@ -57,6 +57,7 @@ The goal is simple:
 | 7   | Valid Anagram            | Easy       | [View Solution](LeetCode/242.%20Valid%20Anagram.py) |
 | 8   | Valid Palindrome         | Easy       | [View Solution](LeetCode/125.%20Valid%20Palindrome.py) |
 | 9   | Best Time to Buy and Sell Stock | Easy | [View Solution](LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
+| 10  | Move Zeroes              | Easy       | [View Solution](LeetCode/283.%20Move%20Zeroes.py) |
 *(Will be updated daily)*
 
 ---
