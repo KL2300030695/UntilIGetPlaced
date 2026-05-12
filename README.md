@@ -64,6 +64,7 @@ The goal is simple:
 | 14  | Linear Search            | Easy       | [View Solution](DSA/linear_search.py)     |
 | 15  | Binary Search (Python)   | Easy       | [View Solution](DSA/binary_search.py)     |
 | 16  | Binary Search (C++)      | Easy       | [View Solution](DSA/binary_search.cpp)    |
+| 17  | Distance Between Duplicate Elements | Medium | [View Solution](TCS/distance%20between%20duplicate%20elements.py) |
 *(Will be updated daily)*
 
 ---
