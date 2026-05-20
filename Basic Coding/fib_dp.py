@@ -10,3 +10,16 @@ def fib_dp(n):
 n = int(input("Enter n: "))
 print(fib_dp(n))        
 
+class Solution(object):
+    def fib_all(self, n):
+        if n <= 0:
+            return []
+
+        result = []
+        a, b = 0, 1
+
+        for _ in range(n):
+            result.append(a)
+            a, b = b, a + b
+
+        return result
